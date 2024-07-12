@@ -1,0 +1,18 @@
+{
+    "valid"     : "dut.writeback.rvfi_valid",
+    "order"     : "dut.writeback.rvfi_order",
+    "inst"      : "dut.writeback.rvfi_inst",
+    "rs1_addr"  : "dut.writeback.rvfi_rs1_addr",
+    "rs2_addr"  : "dut.writeback.rvfi_rs2_addr",
+    "rs1_rdata" : "dut.writeback.rvfi_rs1_rdata",
+    "rs2_rdata" : "dut.writeback.rvfi_rs2_rdata",
+    "rd_addr"   : "dut.writeback.rvfi_rd_addr",
+    "rd_wdata"  : "dut.writeback.rvfi_rd_wdata",
+    "pc_rdata"  : "dut.writeback.rvfi_pc_rdata",
+    "pc_wdata"  : "dut.writeback.rvfi_pc_wdata",
+    "mem_addr"  : "dut.writeback.rvfi_dmem_addr",
+    "mem_rmask" : "dut.writeback.rvfi_dmem_rmask",
+    "mem_wmask" : "dut.writeback.rvfi_dmem_wmask",
+    "mem_rdata" : "dut.writeback.rvfi_dmem_rdata",
+    "mem_wdata" : "dut.writeback.rvfi_dmem_wdata"
+}
